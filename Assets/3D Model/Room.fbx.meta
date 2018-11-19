@@ -9,19 +9,24 @@ ModelImporter:
     100006: transform4
     100008: transform5
     100010: window
+    100012: Envir
     400000: //RootNode
     400002: Environ
     400004: Environ1
     400006: transform4
     400008: transform5
     400010: window
+    400012: Envir
     2100000: lambert1
     2300000: //RootNode
     2300002: Environ1
+    2300004: Envir
     3300000: //RootNode
     3300002: Environ1
+    3300004: Envir
     4300000: pCube1
     4300002: Environ1
+    4300004: Envir
   externalObjects: {}
   materials:
     importMaterials: 1
