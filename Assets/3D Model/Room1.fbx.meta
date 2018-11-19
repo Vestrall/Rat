@@ -1,32 +1,27 @@
 fileFormatVersion: 2
-guid: b6ba80c68c9c6c943acc5f105dcd791d
+guid: 7f693525ae5301b4aa919f0c749bf5ce
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Environ
-    100004: Environ1
-    100006: transform4
-    100008: transform5
-    100010: window
-    100012: Envir
+    100002: pCube1
+    100004: Room
+    100006: Room1
+    100008: transform1
+    100010: transform2
     400000: //RootNode
-    400002: Environ
-    400004: Environ1
-    400006: transform4
-    400008: transform5
-    400010: window
-    400012: Envir
+    400002: pCube1
+    400004: Room
+    400006: Room1
+    400008: transform1
+    400010: transform2
     2100000: lambert1
     2300000: //RootNode
-    2300002: Environ1
-    2300004: Envir
+    2300002: Room1
     3300000: //RootNode
-    3300002: Environ1
-    3300004: Envir
-    4300000: pCube1
-    4300002: Environ1
-    4300004: Envir
+    3300002: Room1
+    4300000: Room
+    4300002: Room1
   externalObjects: {}
   materials:
     importMaterials: 1
